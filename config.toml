@@ -1,6 +1,6 @@
-baseurl = "https://trunkbaseddevelopment.com/"
+baseurl = "https://thesoftwarefactory.com/"
 languageCode = "en-us"
-title = "Trunk Based Development"
+title = "The Software Factory"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -9,13 +9,13 @@ googleAnalytics = "UA-24415524-3"
 
 [params]
 	# General information
-	author = "paul-hammant"
-	description = "A portal on this practice"
-	copyright = "TrunkBasedDevelopment.com's contributors."
+	author = "Eamonn Moloney"
+	description = "An attempt to explain how to operate a software factory without using any buzz words like 'Agile'"
+	copyright = "Eamonn Moloney"
 
 	# Repository
 	provider = "GitHub"
-	repo_url = "https://github.com/paul-hammant/tbd"
+	repo_url = "https://github.com/eamonnmoloney/the-software-factory"
 
 	version = "1.0.0"
 	logo = "images/logo.png"
@@ -41,8 +41,8 @@ googleAnalytics = "UA-24415524-3"
 
 [social]
 	twitter = ""
-	github  = "paul-hammant"
-	email   = "paul@hammant.org"
+	github  = "eamonnmoloney"
+	email   = "eamonnmoloney@gmail.com"
 
 [[menu.main]]
 	name   = "Introduction"
